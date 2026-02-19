@@ -8,4 +8,3 @@ The production code of the SDK is maintained in the [SpineEventEngine](https://g
 
 - **SDK Website**: [spine.io](https://spine.io)
 - **Examples Documentation**: [spine.io/docs/examples](https://spine.io/docs/examples)
-- **Production Repository**: [github.com/SpineEventEngine](https://github.com/SpineEventEngine)
